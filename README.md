@@ -10,7 +10,7 @@ The website is intended to present my profile, skills, projects, and contact inf
 
 The portfolio is live here:
 
-👉 https://yeahsharma-12.github.io/
+👉 https://yeahsharma-12.github.io/website/
 
 
 ---
